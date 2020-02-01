@@ -1,0 +1,1 @@
+cmd_/home/user/host/Oslab-Ntua/panos/lunix.o := ld -m elf_x86_64   -r -o /home/user/host/Oslab-Ntua/panos/lunix.o /home/user/host/Oslab-Ntua/panos/lunix-module.o /home/user/host/Oslab-Ntua/panos/lunix-chrdev.o /home/user/host/Oslab-Ntua/panos/lunix-ldisc.o /home/user/host/Oslab-Ntua/panos/lunix-protocol.o /home/user/host/Oslab-Ntua/panos/lunix-sensors.o 

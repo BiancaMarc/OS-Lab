@@ -1,0 +1,1 @@
+cmd_/home/user/host/Oslab-Ntua/panos/lunix.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-4.9.0-0.bpo.6-common/scripts/module-common.lds --build-id  -o /home/user/host/Oslab-Ntua/panos/lunix.ko /home/user/host/Oslab-Ntua/panos/lunix.o /home/user/host/Oslab-Ntua/panos/lunix.mod.o ;  true

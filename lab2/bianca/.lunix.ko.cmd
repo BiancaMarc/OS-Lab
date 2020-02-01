@@ -1,0 +1,1 @@
+cmd_/home/user/host/Desktop/Oslab-Ntua/bianca/lunix.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-4.9.0-0.bpo.6-common/scripts/module-common.lds --build-id  -o /home/user/host/Desktop/Oslab-Ntua/bianca/lunix.ko /home/user/host/Desktop/Oslab-Ntua/bianca/lunix.o /home/user/host/Desktop/Oslab-Ntua/bianca/lunix.mod.o ;  true
